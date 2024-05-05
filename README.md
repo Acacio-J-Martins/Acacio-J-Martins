@@ -6,7 +6,7 @@ Hi there! 👋 I'm Acacio J Martins, a work in progress as Analyst, based in Pfo
 
 - 🔭 I'm currently working on [Project Portfolio] – as I need to show my skills to the world...and improve them, mostly.
 - 🌱 I'm learning Python and Advanced PowerBi to enhance my skills.
-- 💬 Ask me about [Your Interests/Hobbies].
+- 💬 Ask me about anything. I have a pretty wide range of interests...
 - 📫 How to reach me: acaciojmartins@gmail.com or connect with me on LinkedIn. (You can also reach me in  Chime... if you know, you know XD)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Started learning SQL because in the team the only guy that knew, left. I was the only analyst who tried to learn alone. I am still the only guy in my team who knows SQL (and I am no analyst anymore. I mean...when needed)
